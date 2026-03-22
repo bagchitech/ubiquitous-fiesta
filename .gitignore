@@ -1,0 +1,19 @@
+# Build artifacts
+/Debug/
+/Release/
+
+# STM32CubeIDE settings
+.settings/
+.cproject
+.project
+
+# Temporary files
+*.o
+*.d
+*.elf
+*.map
+*.bin
+*.hex
+
+# Backup files
+*~
