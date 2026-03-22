@@ -35,7 +35,7 @@ UART communication and LED blinking are handled using **interrupts** and **timer
 
 | Peripheral  | Pin       |
 |------------|-----------|
-| LED        | `PG1`   |
+| LED        | `PG12`   |
 | UART TX    | `PA9` |
 | UART RX    | `PA10` |
 | GND        | GND       |
